@@ -39,8 +39,8 @@
             case AlertAction.Cancel:
                 print("NO button pressed")
             }
-        }                
-    }
+        }
+   }
 
 
 - **Show Alert With Action Block having more than two buttons**
@@ -63,7 +63,7 @@
                 print("Nothing")
             }
         }
-    }
+   }
     
        
 - **Show Actionsheet**
@@ -88,4 +88,4 @@
                 print("Nothing")
             }
         }
-    }
+   }
